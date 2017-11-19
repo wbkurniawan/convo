@@ -2,8 +2,10 @@
  * Created by William on 5/10/2017.
  */
 module.exports = {
-    "START_TRAINING" : " Willkommen. Du kannst zu erst das Level setzen, oder gleich mit dem Training anfangen. Wir haben Aussprache, Hörverstehen, und Gespräch Training, welches willst du? ",
-    "START_TRAINING_REPROMPT" : " Aussprache, Hörverstehen, oder Gespräch? ",
+    "START_SKILL" : " Willkommen bei Deutschtutor. Willst Du zuerst dein Sprachlevel setzen oder sofort mit dem Training beginnen?",
+    "START_SKILL_REPROMPT" : "Setze dein Sprachlevel oder beginne sofort mit dem Training",
+    "START_TRAINING" : "An welchem Training möchtest du teilnehmen? Aussprache oder Hörverstehen?"
+    "START_TRAINING_REPROMPT" : "Wir bieten Aussprache und Hörverstehen. Welchen Bereich möchtest du trainieren?",
     "CHOOSE_TRAINING": " Welches Training willst du starten? ",
     "CHANGE_LEVEL" : " Welches Level willst du. Einfach, Normal, oder Schwierig? ",
     "CHANGE_LEVEL_REPROMPT" : " Einfach, Normal oder Schwierig?",
